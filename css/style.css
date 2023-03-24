@@ -1,0 +1,51 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family:'Poppins',sans-serif;
+}
+
+.container{
+	width:90%;
+	margin:auto;
+}
+
+.row{
+	background-image:linear-gradient(to bottom,#B2FFEE ,#CCFFB2,#FFCFB2 );
+	box-shadow:5px 5px 5px 9px #666666;
+	
+
+}
+
+h1{
+	text-align:center;
+	padding-bottom:30px;
+}
+
+
+.bill-sec{
+	padding:30px 0;
+}
+
+.bill-amount,.tips-col,.total-col{
+	padding:30px ;
+	font-size:20px;
+	font-weight:900;
+	text-align:center;
+	
+	
+	
+	
+	
+	
+}
+
+#bill,#tip,#total-amount,#tip-amount{
+	border:2px inset #CCFFB2;
+}
+
+
+
+
+
+
